@@ -2,21 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2021-08-15T14:28:37.558958Z",
+      "created": "2021-08-15T14:28:39.004114Z",
       "format": null,
-      "last_modified": "2021-08-15T14:27:45.550540Z",
+      "last_modified": "2021-08-15T14:27:47.051419Z",
       "mimetype": null,
       "name": "1_fonctions.ipynb",
       "path": "1_Python/1_fonctions.ipynb",
-      "size": 14765,
+      "size": 14766,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2021-08-15T14:28:37.558958Z",
+      "created": "2021-08-15T14:28:39.004114Z",
       "format": null,
-      "last_modified": "2021-08-15T14:27:45.550540Z",
+      "last_modified": "2021-08-15T14:27:47.051419Z",
       "mimetype": null,
       "name": "0_variables.ipynb",
       "path": "1_Python/0_variables.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2021-08-15T14:28:37.558958Z",
+      "created": "2021-08-15T14:28:39.004114Z",
       "format": null,
-      "last_modified": "2021-08-15T14:27:45.550540Z",
+      "last_modified": "2021-08-15T14:27:47.051419Z",
       "mimetype": null,
       "name": "2_boucles.ipynb",
       "path": "1_Python/2_boucles.ipynb",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-08-15T14:28:37.558958Z",
+  "created": "2021-08-15T14:28:39.004114Z",
   "format": "json",
-  "last_modified": "2021-08-15T14:28:37.558958Z",
+  "last_modified": "2021-08-15T14:28:39.004114Z",
   "mimetype": null,
   "name": "1_Python",
   "path": "1_Python",
