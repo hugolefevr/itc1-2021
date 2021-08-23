@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2021-08-23T15:29:22.223579Z",
+      "created": "2021-08-23T15:45:06.148868Z",
       "format": null,
-      "last_modified": "2021-08-23T15:29:22.223579Z",
+      "last_modified": "2021-08-23T15:45:06.148868Z",
       "mimetype": null,
-      "name": "1_Python",
-      "path": "1_Python",
+      "name": "0_intro",
+      "path": "0_intro",
       "size": null,
       "type": "directory",
       "writable": true
     }
   ],
-  "created": "2021-08-23T15:29:22.219579Z",
+  "created": "2021-08-23T15:45:06.148868Z",
   "format": "json",
-  "last_modified": "2021-08-23T15:29:22.219579Z",
+  "last_modified": "2021-08-23T15:45:06.148868Z",
   "mimetype": null,
   "name": "",
   "path": "",
