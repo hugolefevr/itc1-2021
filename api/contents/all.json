@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2021-08-23T15:45:06.148868Z",
+      "created": "2021-08-23T16:15:53.386403Z",
       "format": null,
-      "last_modified": "2021-08-23T15:45:06.148868Z",
+      "last_modified": "2021-08-23T16:15:53.386403Z",
+      "mimetype": null,
+      "name": "1_Python",
+      "path": "1_Python",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-23T16:15:53.386403Z",
+      "format": null,
+      "last_modified": "2021-08-23T16:15:53.386403Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2021-08-23T15:45:06.148868Z",
+  "created": "2021-08-23T16:15:53.386403Z",
   "format": "json",
-  "last_modified": "2021-08-23T15:45:06.148868Z",
+  "last_modified": "2021-08-23T16:15:53.386403Z",
   "mimetype": null,
   "name": "",
   "path": "",
