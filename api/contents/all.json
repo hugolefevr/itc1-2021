@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-09-12T11:37:39.166741Z",
+      "created": "2021-09-13T07:32:12.763623Z",
       "format": null,
-      "last_modified": "2021-09-12T11:37:39.166741Z",
+      "last_modified": "2021-09-13T07:32:12.763623Z",
       "mimetype": null,
       "name": "1_Python",
       "path": "1_Python",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-12T11:37:39.166741Z",
+      "created": "2021-09-13T07:32:12.763623Z",
       "format": null,
-      "last_modified": "2021-09-12T11:37:14.742688Z",
+      "last_modified": "2021-09-13T07:31:51.879468Z",
       "mimetype": null,
       "name": "2_recherche.ipynb",
       "path": "2_recherche.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2021-09-12T11:37:39.154741Z",
+      "created": "2021-09-13T07:32:12.755623Z",
       "format": null,
-      "last_modified": "2021-09-12T11:37:39.154741Z",
+      "last_modified": "2021-09-13T07:32:12.755623Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-09-12T11:37:39.166741Z",
+  "created": "2021-09-13T07:32:12.763623Z",
   "format": "json",
-  "last_modified": "2021-09-12T11:37:39.166741Z",
+  "last_modified": "2021-09-13T07:32:12.763623Z",
   "mimetype": null,
   "name": "",
   "path": "",
