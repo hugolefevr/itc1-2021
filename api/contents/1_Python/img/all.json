@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-09-28T16:58:25.658607Z",
+      "format": null,
+      "last_modified": "2021-09-28T16:58:05.369646Z",
+      "mimetype": "image/png",
+      "name": "aide.png",
+      "path": "1_Python/img/aide.png",
+      "size": 73799,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-28T16:58:25.662607Z",
+      "format": null,
+      "last_modified": "2021-09-28T16:58:05.369646Z",
+      "mimetype": "image/png",
+      "name": "stop.png",
+      "path": "1_Python/img/stop.png",
+      "size": 5749,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-28T16:58:25.662607Z",
+      "format": null,
+      "last_modified": "2021-09-28T16:58:05.369646Z",
+      "mimetype": "image/png",
+      "name": "completion.png",
+      "path": "1_Python/img/completion.png",
+      "size": 16820,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2021-09-28T16:58:25.662607Z",
+  "format": "json",
+  "last_modified": "2021-09-28T16:58:25.662607Z",
+  "mimetype": null,
+  "name": "img",
+  "path": "1_Python/img",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
