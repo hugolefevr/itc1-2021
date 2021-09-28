@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2021-09-28T13:55:23.085955Z",
+      "created": "2021-09-28T13:55:44.934685Z",
       "format": null,
-      "last_modified": "2021-09-28T13:55:01.917305Z",
+      "last_modified": "2021-09-28T13:55:21.934579Z",
+      "mimetype": "application/pdf",
+      "name": "resume_python.pdf",
+      "path": "1_Python/cours/resume_python.pdf",
+      "size": 50609,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-09-28T13:55:44.930685Z",
+      "format": null,
+      "last_modified": "2021-09-28T13:55:21.934579Z",
       "mimetype": "application/pdf",
       "name": "python.pdf",
       "path": "1_Python/cours/python.pdf",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2021-09-28T13:55:23.085955Z",
+  "created": "2021-09-28T13:55:44.934685Z",
   "format": "json",
-  "last_modified": "2021-09-28T13:55:23.085955Z",
+  "last_modified": "2021-09-28T13:55:44.934685Z",
   "mimetype": null,
   "name": "cours",
   "path": "1_Python/cours",
