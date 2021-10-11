@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-10-11T17:09:16.775212Z",
+      "format": null,
+      "last_modified": "2021-10-11T17:09:16.775212Z",
+      "mimetype": null,
+      "name": "premiers",
+      "path": "1_Python/tp/premiers",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2021-10-11T17:09:16.767211Z",
+  "format": "json",
+  "last_modified": "2021-10-11T17:09:16.767211Z",
+  "mimetype": null,
+  "name": "tp",
+  "path": "1_Python/tp",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
