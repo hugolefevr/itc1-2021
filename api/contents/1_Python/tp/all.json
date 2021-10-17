@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-10-11T17:09:16.775212Z",
+      "created": "2021-10-17T12:49:47.962909Z",
       "format": null,
-      "last_modified": "2021-10-11T17:09:16.775212Z",
+      "last_modified": "2021-10-17T12:49:47.962909Z",
       "mimetype": null,
       "name": "premiers",
       "path": "1_Python/tp/premiers",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2021-10-11T17:09:16.767211Z",
+  "created": "2021-10-17T12:49:47.954909Z",
   "format": "json",
-  "last_modified": "2021-10-11T17:09:16.767211Z",
+  "last_modified": "2021-10-17T12:49:47.954909Z",
   "mimetype": null,
   "name": "tp",
   "path": "1_Python/tp",
